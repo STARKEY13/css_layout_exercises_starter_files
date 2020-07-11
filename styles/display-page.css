@@ -10,8 +10,8 @@ main {
   font-size: 0;
 }
 .inner{
-	width: 398px;
-	height:198px;
+	width: 400px;
+	height:200px;
 	font-size:0;
   display: inline-block;
   border: 1px solid black;
@@ -24,8 +24,8 @@ main {
 	background-color: blue;
 }
 .inner2{
-	width:264.66px;
-	height:298px;
+	width:33.33%;
+	height:300px;
   display: inline-block;
 	border:1px solid black;
   font-size:0;
